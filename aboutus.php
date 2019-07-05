@@ -85,15 +85,6 @@ Get special offers on sundays!<br>
 </div>
 
 
-
-
-
-
-
-
-
-
-
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -111,3 +102,7 @@ include 'footer.php'
 
 </body>
 </html>
+
+	<?php
+include 'upload.php';
+?>
