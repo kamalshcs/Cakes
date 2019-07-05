@@ -163,4 +163,6 @@ else
 
 </body>
 </html>
-
+	<?php
+include 'upload.php';
+?>
