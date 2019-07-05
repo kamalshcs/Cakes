@@ -55,7 +55,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
       
-        <li><a href="aboutus.php" style="font-family:french script MT regular; color:palevioletred; font-size:250%">about us</a></li>
+        <li><a href="index.php" style="font-family:french script MT regular; color:palevioletred; font-size:250%">about us</a></li>
         <li><a href="contactus.php" style="font-family:french script MT regular; color:palevioletred; font-size:250%">speciality</a></li>
         <li><a href="variety.php" style="font-family:french script MT regular; color:palevioletred; font-size:250%">variety</a></li>
         <li><a href="recipe.php" style="font-family:french script MT regular; color:palevioletred; font-size:250%">recipe corner</a></li>
