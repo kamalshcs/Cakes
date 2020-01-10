@@ -30,7 +30,7 @@ else
 <head>
 
 
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -52,7 +52,7 @@ else
 <div class="container-fluid">
 <div class="col-sm-12">
 <div class="text-center">
-<img src="cakes.png" height="5%" width="5%">  cakes
+<img src="images/cakes.png" height="5%" width="5%">  cakes
 </div>
 </div>
 </div>
@@ -64,7 +64,7 @@ else
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
       
-      <img src="vegan.png" height="50px" width="50px" style="padding:0px;">
+      <img src="images/vegan.png" height="50px" width="50px" style="padding:0px;">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>

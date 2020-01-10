@@ -60,10 +60,10 @@ include 'header.php';
 &ldquo;Macarons&rdquo;</p>
 
 <p class="quote-author" style="font-size:200%;font-family: Edwardian Script ITC Regular;"></p>
-<img src="cake11.jpg" height="300" width="390">
-<img src="cookies.jpg" height="300" width="370">
-<img src="choco.jpg" height="300" width="400">
-<img src="macaron.jpg" height="300" width="290">
+<img src="images/cake11.jpg" height="300" width="390">
+<img src="images/cookies.jpg" height="300" width="370">
+<img src="images/choco.jpg" height="300" width="400">
+<img src="images/macaron.jpg" height="300" width="290">
 </marquee>
 
    </div>
@@ -76,7 +76,7 @@ include 'header.php';
 <div class="container-fluid" style="font-size:200%;font-family: french Script MT Regular;color:grey;">
 <div class="thumbnail" style="background-color: mistyrose;background-size:cover;">
 <div class="text-center">
-<p><img src="p1.png" style="border-radius:50% ;height:3%;width:3%;">&nbsp;Contact us at 12345-67890.<br>
+<p><img src="images/p1.png" style="border-radius:50% ;height:3%;width:3%;">&nbsp;Contact us at 12345-67890.<br>
 Open all seven days,10:00am onwards.<br>
 Get special offers on sundays!<br> 
 </p>

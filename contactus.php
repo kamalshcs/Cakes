@@ -27,7 +27,7 @@ include 'header.php';
 
 <div class="col-sm-4 col-md-4">
     <div class="thumbnail" style="background-image: url(pink.jpg);">
-      <img src="cookies.jpg" alt="cupcake">
+      <img src="images/cookies.jpg" alt="cupcake">
       <div class="caption">
         <h1 style="font-family: Edwardian Script ITC Regular;">Cookies</h1>
         <p> freshly made  <br>
@@ -40,7 +40,7 @@ include 'header.php';
 
 <div class="col-sm-4 col-md-4">
     <div class="thumbnail" style="background-image: url(pink.jpg);">
-      <img src="cupcake2.jpg" alt="cupcake">
+      <img src="images/cupcake2.jpg" alt="cupcake">
       <div class="caption">
         <h1 style="font-family: Edwardian Script ITC Regular;">Cupckaes</h1>
         <p>Decorated with <br>
@@ -53,7 +53,7 @@ include 'header.php';
 
   <div class="col-sm-4 col-md-4">
     <div class="thumbnail" style="background-image: url(pink.jpg);">
-      <img src="breads.jpg" alt="cupcake">
+      <img src="images/breads.jpg" alt="cupcake">
       <div class="caption">
         <h1 style="font-family: Edwardian Script ITC Regular;">Breads</h1>
         <p>Multigrain breads<br>
@@ -82,7 +82,7 @@ include 'header.php';
 
 <div class="col-sm-4 col-md-4">
     <div class="thumbnail" style="background-image: url(pink.jpg);">
-      <img src="shake7.jpg" alt="cupcake">
+      <img src="images/shake7.jpg" alt="cupcake">
       <div class="caption">
         <h1 style="font-family: Edwardian Script ITC Regular;">Shakes</h1>
         <p>Pamper your thirst<br>
@@ -95,7 +95,7 @@ include 'header.php';
 
 <div class="col-sm-4 col-md-4">
     <div class="thumbnail" style="background-image: url(pink.jpg);">
-      <img src="wcake2.jpg" alt="cupcake">
+      <img src="images/wcake2.jpg" alt="cupcake">
       <div class="caption">
         <h1 style="font-family: Edwardian Script ITC Regular;">Wedding Cake</h1>
         <p>Fabulously dressed<br>
@@ -108,7 +108,7 @@ include 'header.php';
 
   <div class="col-sm-4 col-md-4">
     <div class="thumbnail" style="background-image: url(pink.jpg);">
-      <img src="mac.jpg" alt="cupcake">
+      <img src="images/mac.jpg" alt="cupcake">
       <div class="caption">
         <h1 style="font-family: Edwardian Script ITC Regular;">Macarons</h1>
         <p>Dive into the <br>
@@ -132,9 +132,9 @@ include 'header.php';
 <div class="col-sm-12">
 <div class="text-center">
 <p>Follow Us On</p>
-<a href="facebook.com"><img src="facebook.png" height="50px" weight="50px" style="border-radius: 50%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="instagram.com"><img src="instagram.jpg" height="50px" weight="50px" style="border-radius: 50%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="twitter.com"><img src="twitter.jpg" height="50px" weight="50px" style="border-radius: 50%;"></a>
+<a href="facebook.com"><img src="images/facebook.png" height="50px" weight="50px" style="border-radius: 50%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="instagram.com"><img src="images/instagram.jpg" height="50px" weight="50px" style="border-radius: 50%;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="twitter.com"><img src="images/twitter.jpg" height="50px" weight="50px" style="border-radius: 50%;"></a>
 <br>
 <h2 style="color:white;font-size:120%";>All Rights Reserved</h2>
 </div>

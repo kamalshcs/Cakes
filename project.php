@@ -18,10 +18,10 @@ include 'header.php';
 
 <p style="font-size:240%;font-family: Edwardian Script ITC Regular;">&ldquo;Cooking is an art, but all art requires knowing something about the techniques and materials&rdquo;</p>
 <p class="quote-author" style="font-size:200%;font-family: Edwardian Script ITC Regular;">&mdash; Nathan Myhrvold</p>
-<img src="oreocupcakes.jpg" height="200" width="190">
-<img src="shakes2.jpg" height="200" width="200">
-<img src="wcake1.jpg" height="200" width="190">
-<img src="cupcake2.jpg" height="200" width="250">
+<img src="images/oreocupcakes.jpg" height="200" width="190">
+<img src="images/shakes2.jpg" height="200" width="200">
+<img src="images/wcake1.jpg" height="200" width="190">
+<img src="images/cupcake2.jpg" height="200" width="250">
 
 </marquee>
 </div>
@@ -42,7 +42,7 @@ include 'header.php';
 
 <div class="col-sm-6 col-md-6">
     <div class="thumbnail" style="background-image: url(pink.jpg);">
-      <img src="drawing2.jpg" alt="cupcake">
+      <img src="images/drawing2.jpg" alt="cupcake">
       <div class="caption">
         <h1 style="font-family: Edwardian Script ITC Regular;">Know Us</h1>
         <p>Established in 1884.This is the finest bakery<br>
@@ -58,7 +58,7 @@ include 'header.php';
 
 <div class="col-sm-6 col-md-6">
     <div class="thumbnail" style="background-image: url(pink.jpg);">
-      <img src="drawing2.jpg" alt="cupcake">
+      <img src="images/drawing2.jpg" alt="cupcake">
       <div class="caption">
         <h1 style="font-family: Edwardian Script ITC Regular;">Cherish with Us</h1>
         <p>A shop of delicious aromas and<br>

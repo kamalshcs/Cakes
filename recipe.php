@@ -29,9 +29,9 @@ Also win a chance to pick your favourite item for free on Sundays!</p>
 <div class="recipeform" >
 <div class="row">
 <div class="container">
-<div class="col-sm-7" style="background-image:url(pink.jpg);">
+<div class="col-sm-7" style="background-image:url(images/pink.jpg);">
 <form name="rf" method="POST">
-<h1> <img src="culinary.png" height='110px' width='110px'>Share your recipes here...
+<h1> <img src="images/culinary.png" height='110px' width='110px'>Share your recipes here...
 </h1>
  <p><input type="text" name="name" placeholder="your name...">
  <p><textarea name="comment" cols="47" rows="6" placeholder="your recipe!"></textarea></p>
@@ -50,7 +50,7 @@ Also win a chance to pick your favourite item for free on Sundays!</p>
 
 <div class="container">
 <div class="col-sm-5">
-<img src="macarons6.png">
+<img src="images/macarons6.png">
 </div>
 </div>
 </div>
